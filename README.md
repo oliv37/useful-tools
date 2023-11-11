@@ -4,7 +4,7 @@
 </div>
 
 
-#### <a href="https://excalidraw.com/" target="_blank">Excalidraw</a>
+#### [Excalidraw](https://excalidraw.com/)
 
 Virtual whiteboard for sketching hand-drawn like diagrams
 
