@@ -36,12 +36,6 @@ Effortlessly build beautiful command-line apps
 <br><br>
 
 
-#### [Icons8](https://icons8.com/)
-
-Free icons, Clipart Illustrations, Photos
-<br><br>
-
-
 #### [k9s](https://k9scli.io/)
 
 Kubernetes CLI To Manage Your Clusters In Style!
