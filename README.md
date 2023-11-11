@@ -42,3 +42,10 @@ Free icons, Clipart Illustrations, Photos
 <br><br>
 
 
+#### [k9s](https://k9scli.io/)
+
+Kubernetes CLI To Manage Your Clusters In Style!
+
+[<img src="https://img.icons8.com/windows/32/github.png">](https://github.com/derailed/k9s)
+<br><br>
+
