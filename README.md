@@ -1,6 +1,6 @@
 <div align="center">
   <img width="96" height="96" src="https://img.icons8.com/ios/100/maintenance--v1.png" alt="tools"/>
-  <h1>A collection of usefull tools</h1>
+  <h1>A collection of useful tools</h1>
 </div>
 
 
